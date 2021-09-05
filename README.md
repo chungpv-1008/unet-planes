@@ -1,4 +1,4 @@
-# Qick start
+# Quick start
 
 # 1. Dataset
 
